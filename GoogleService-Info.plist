@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>667539126996-h2t14h5svj8r49i4pbat66b2s7q05kb8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.667539126996-h2t14h5svj8r49i4pbat66b2s7q05kb8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrLgNDA_oPWIwNWaPAkRoLoB7P6fGfbzY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667539126996</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sortino.firebase</string>
+	<key>PROJECT_ID</key>
+	<string>sortino-de76a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sortino-de76a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667539126996:ios:8f158f8abd9dc8e9615941</string>
+</dict>
+</plist>

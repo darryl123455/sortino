@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "667539126996",
+    "project_id": "sortino-de76a",
+    "storage_bucket": "sortino-de76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667539126996:android:b359e0bbf782f207615941",
+        "android_client_info": {
+          "package_name": "com.sortino.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667539126996-ml7lafrb107go0koi1pfblgcs19sk8j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sortino.firebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "667539126996-74sjp82cbp9pam8u9qe7d07j4fesunu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGw5ZxLuZSxf7PIjz_oSGXk_PhYcYUm8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667539126996-74sjp82cbp9pam8u9qe7d07j4fesunu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667539126996-h2t14h5svj8r49i4pbat66b2s7q05kb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sortino.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

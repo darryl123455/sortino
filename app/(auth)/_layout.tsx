@@ -4,9 +4,11 @@ import { Stack } from 'expo-router'
 
 const layout = () => {
   return (
-    <Stack/>
+    <Stack screenOptions={{ headerShown: false}}/>
     
   )
 }
 
 export default layout
+
+//options={{ headerShown: false}}
